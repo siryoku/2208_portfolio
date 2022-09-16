@@ -5,12 +5,12 @@ body {
 
 header {
   display: flex;
-  padding: 20px 16px;
+  padding: 0px 16px;
 }
 
 header h1 {
   margin: 0;
-  font-size: 80px;
+  font-size: 60px;
   line-height: 64px;
 }
 
@@ -33,6 +33,13 @@ main {
   /* margin: 20px;
   outline: double 1px black;
   border-radius: 10px; */
+}
+
+p {
+  padding: 60px 20px;
+  /* border: 1px solid black; */
+  border-radius:30px;
+  background: rgb(249, 248, 246); 
 }
 
 .overlay {
@@ -136,7 +143,7 @@ h1:hover {
 a {
   width: 50px;
   display: block;
-  margin: 30px auto;
+  margin: 10px auto;
   text-align: center;
   font-weight: bold;
   border-radius:20px;
@@ -154,7 +161,7 @@ a {
 }
 
 a:hover {
-  color: rgb(197, 222, 255); /*文字色*/
+  color: rgb(228, 227, 225); /*文字色*/
   cursor: pointer;
   animation: fluffy1 3s ease infinite;
 }
@@ -201,7 +208,7 @@ a:hover {
 }
 
 
-@media (min-width: 600px) {
+@media (min-width: 1000px) {
   .pc-menu {
     display: block;
     margin-left: auto;

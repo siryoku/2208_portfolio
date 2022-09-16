@@ -29,7 +29,7 @@ h1 {
 }
 
 h1:hover {
-  color: rgb(233, 255, 248); /*文字色*/
+  color: rgb(239, 166, 255); /*文字色*/
   animation: poyoyon2 2s ease-in-out 100000 forwards;
   background:white;
   cursor: pointer;
@@ -138,27 +138,27 @@ h1:hover {
 }
 
 #introduction:hover {
-  color: rgb(197, 222, 255); /*文字色*/
+  color: rgb(228, 227, 225); /*文字色*/
 }
 
 #background:hover {
-  color: rgb(255, 198, 222); /*文字色*/
+  color: rgb(228, 227, 225); /*文字色*/
 }
 
 #matter:hover {
-  color: rgb(241, 255, 171); /*文字色*/
+  color: rgb(228, 227, 225); /*文字色*/
 }
 
 #skill:hover {
-  color: rgb(239, 166, 255); /*文字色*/
+  color: rgb(228, 227, 225); /*文字色*/
 }
 
 #license:hover {
-  color: rgb(189, 255, 197); /*文字色*/
+  color: rgb(228, 227, 225); /*文字色*/
 }
 
 #product:hover {
-  color: rgb(255, 245, 203); /*文字色*/
+  color: rgb(228, 227, 225); /*文字色*/
 }
 
 
@@ -282,27 +282,27 @@ a {
 
 
 #introduction_modal {
-  background:  rgb(232, 242, 255); 
+  background:  rgb(228, 227, 225); 
 }
 
 #background_modal {
-  background:  rgb(255, 221, 242); 
+  background:  rgb(228, 227, 225); 
 }
 
 #matter_modal {
-  background: rgb(242, 255, 191);
+  background: rgb(228, 227, 225) ;
 }
 
 #skill_modal {
-  background: rgb(255, 233, 252);
+  background: rgb(228, 227, 225);
 }
 
 #license_modal {
-  background: rgb(217, 255, 209);
+  background: rgb(228, 227, 225);
 }
 
 #product_modal {
-  background: rgb(255, 227, 191);
+  background: rgb(228, 227, 225);
 }
 
 
@@ -389,27 +389,27 @@ a {
   }
 
   #introduction_modal {
-    background:  rgb(232, 242, 255); 
+    background:  rgb(249, 248, 246); 
   }
 
   #background_modal {
-    background:  rgb(255, 221, 242); 
+    background:  rgb(249, 248, 246); 
   }
 
   #matter_modal {
-    background: rgb(242, 255, 191);
+    background: rgb(249, 248, 246);
   }
 
   #skill_modal {
-    background: rgb(255, 233, 252);
+    background: rgb(249, 248, 246);
   }
 
   #license_modal {
-    background: rgb(217, 255, 209);
+    background: rgb(249, 248, 246);
   }
 
   #product_modal {
-    background: rgb(255, 227, 191);
+    background: rgb(249, 248, 246);
   }
 
 
