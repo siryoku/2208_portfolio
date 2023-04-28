@@ -30,6 +30,7 @@ h1 {
 
 h1:hover {
   color: rgb(239, 166, 255); /*文字色*/
+  color: rgb(233, 255, 248); /*文字色*/
   animation: poyoyon2 2s ease-in-out 100000 forwards;
   background:white;
   cursor: pointer;
@@ -90,14 +91,14 @@ h1:hover {
 }
 
 
-@keyframes float_2979 {
+/* @keyframes float_2979 {
   0% { transform: translateY(0) }
   33.33333% { transform: translateY(-6px) }
   66.66667% { transform: translateY(0) }
   100% { transform: translateY(0) }
-}
+} */
 
-@keyframes poyoyon2 {
+/* @keyframes poyoyon2 {
   0%  {
     transform: scale(1.0, 1.0) translate(0, 0);
   }
@@ -118,7 +119,7 @@ h1:hover {
   0%, 100% {
     opacity: 1;
   }
-}
+} */
 
 
 
@@ -219,7 +220,7 @@ h4 {
   transition: transform 0.4s;
   z-index: 2;
   flex-direction: column;
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  /* font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
 }
 
 #introduction_modal > p,
@@ -241,7 +242,7 @@ h4 {
 #skill_modal.hidden,
 #license_modal.hidden,
 #product_modal.hidden {
-  transform: translate(0, -500px)
+  transform: translate(0, -1000px)
 }
 
 a {
@@ -282,27 +283,27 @@ a {
 
 
 #introduction_modal {
-  background:  rgb(228, 227, 225); 
+  background:  rgb(249, 248, 246); 
 }
 
 #background_modal {
-  background:  rgb(228, 227, 225); 
+  background: rgb(249, 248, 246); 
 }
 
 #matter_modal {
-  background: rgb(228, 227, 225) ;
+  background: rgb(249, 248, 246) ;
 }
 
 #skill_modal {
-  background: rgb(228, 227, 225);
+  background: rgb(249, 248, 246);
 }
 
 #license_modal {
-  background: rgb(228, 227, 225);
+  background: rgb(249, 248, 246);
 }
 
 #product_modal {
-  background: rgb(228, 227, 225);
+  background: rgb(249, 248, 246);
 }
 
 

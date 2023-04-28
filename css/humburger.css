@@ -130,7 +130,7 @@ h1 {
   -1px 1px 0 black, 1px -1px 0 black,
   0px 1px 0 black,  0-1px 0 black,
   -1px 0 0 black, 1px 0 0 black;
-  animation: poyoyon2 1s ease-in-out 1 forwards;
+  /* animation: poyoyon2 1s ease-in-out 1 forwards; */
 }
 
 h1:hover {
@@ -155,7 +155,7 @@ a {
   -1px 1px 0 black, 1px -1px 0 black,
   0px 1px 0 black,  0-1px 0 black,
   -1px 0 0 black, 1px 0 0 black;
-  animation: float_2979 3s linear infinite;
+  /* animation: float_2979 3s linear infinite; */
   transform-origin: 50% 50%;
   text-decoration: none;
 }
@@ -231,7 +231,7 @@ a:hover {
   }
 
   .pc-menu a:hover {
-    background: #f2f2f2;
+    background: #efeee2;
   }
 
   .sp-menu {
