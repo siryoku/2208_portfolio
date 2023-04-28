@@ -29,7 +29,7 @@ h1 {
 }
 
 h1:hover {
-  color: rgb(239, 166, 255); /*文字色*/
+  /* color: rgb(239, 166, 255); */
   color: rgb(233, 255, 248); /*文字色*/
   animation: poyoyon2 2s ease-in-out 100000 forwards;
   background:white;
